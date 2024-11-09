@@ -1,0 +1,4 @@
+Numero: 1	Disponibilité	occupee	Nombre_de_lits 2	Prix: 300	Type_de_lits: lit simple
+Numero: 2	Disponibilité	disponible	Nombre_de_lits 1	Prix: 500	Type_de_lits: lit simple
+Numero: 3	Disponibilité	disponible	Nombre_de_lits 1	Prix: 200	Type_de_lits: lit simple
+Numero: 4	Disponibilité	disponible	Nombre_de_lits 1	Prix: 200	Type_de_lits: lit simple

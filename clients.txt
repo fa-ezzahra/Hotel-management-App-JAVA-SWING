@@ -1,0 +1,5 @@
+ID: 1	Nom: chadia	Ville: rabat	Pays: maroc	Sexe: Femme
+ID: 2	Nom: imane	Ville: casa	Pays: maroc	Sexe: Femme
+ID: 3	Nom: chihab	Ville: temara	Pays: maroc	Sexe: Homme
+ID: 4	Nom: fezzahra	Ville: kenitra	Pays: maroc	Sexe: Femme
+ID: 7	Nom: abdeladim	Ville: rabat	Pays: maroc	Sexe: Homme

@@ -1,0 +1,1 @@
+ID reservation: 1	ID Client: 1	ID chambre: 1	Date: 01/01/2023	Nb de jours: 2
