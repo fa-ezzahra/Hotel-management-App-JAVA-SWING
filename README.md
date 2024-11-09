@@ -1,14 +1,17 @@
-ava-Based Hotel Management Project 
+# Java-Based Hotel Management System 🏨
 
--Using an elegant Moroccan UI to display the client roster.
--Fast client lookup by ID for optimal productivity.
--Smooth onboarding of new customers using an intuitive user interface.
--Rooms are easily listed and managed.
--Use the room number to find a room and gain lightning-fast entrance.
--Maintaining reservations, with a simple method for adding new ones.
--Keeping an eye on room occupancy and using a straightforward room number lookup to determine who is in which room.
--Easy procedures for guests to check in and exit for the ideal visitor experience.
- Technology Stack:
-Swing 
- Data Management Evolution: 
-Text files
+## Project Overview
+A hotel management system built with Java Swing for a smooth and efficient user experience. The system includes:
+
+- **Elegant Moroccan UI** for displaying the client roster.
+- **Fast client lookup** by ID for optimal productivity.
+- **Easy onboarding** of new customers with an intuitive interface.
+- **Simple room management**: List and manage rooms by room number.
+- **Quick room access** using room numbers.
+- **Effortless reservation management**, including adding new reservations.
+- **Room occupancy tracking** with straightforward room number lookup.
+- **Streamlined check-in and check-out** procedures for guests.
+
+## Technology Stack
+- **Java (Swing)** for the User Interface
+- **Text Files** for data management
